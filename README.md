@@ -102,7 +102,7 @@ The application ensures smooth coordination between different factory operations
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Abhijith-PA1/Inventory-ManagementSystem.git
 cd inventory-Manementsystem
 ```
 
@@ -130,7 +130,7 @@ npm install
 npm run dev
 ```
 
-The frontend will run on [http://localhost:5173](http://localhost:5173) (default Vite port).
+The frontend will run on [https://inventory-management-system-lac-phi.vercel.app/](http://localhost:5173) (default Vite port).
 
 The backend will run on [https://imsserver-f7sf.onrender.com](http://localhost:3000) (default Vite port).
 

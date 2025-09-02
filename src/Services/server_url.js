@@ -1,0 +1,1 @@
+export const server_url = "https://imsserver-f7sf.onrender.com"

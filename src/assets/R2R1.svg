@@ -1,0 +1,21 @@
+<svg width="220" height="110" viewBox="0 0 220 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="multiGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5500e7ff" />
+      <stop offset="50%" stop-color="#ff0000ff" />
+      <stop offset="100%" stop-color="#dc00feff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Abstract factory: rectangles stacked -->
+  <rect x="100" y="45" width="20" height="20" fill="#ffae00ff" />
+  <rect x="110" y="35" width="10" height="10" fill="#fcd484ff" />
+  <rect x="90" y="45" width="10" height="30" fill="#facc8bff" />
+  
+  <!-- Colorful bars -->
+  <rect x="25" y="60" width="140" height="12" rx="6" fill="#f7ff05ff" transform="rotate(10 25 60)" />
+  <rect x="25" y="60" width="140" height="12" rx="6" fill="#fff200ff" transform="rotate(-10 25 60)" />
+
+  <!-- R2R text with gradient -->
+  <text x="60" y="95" font-family="Georgia, serif" font-weight="bold" font-size="38" fill="url(#multiGrad)">R2R</text>
+</svg>

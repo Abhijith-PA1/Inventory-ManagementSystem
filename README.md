@@ -130,9 +130,9 @@ npm install
 npm run dev
 ```
 
-The frontend will run on [https://inventory-management-system-lac-phi.vercel.app/](http://localhost:5173) (default Vite port).
+The frontend will run on [https://inventory-management-system-lac-phi.vercel.app/](https://inventory-management-system-lac-phi.vercel.app/) (default Vite port).
 
-The backend will run on [https://imsserver-f7sf.onrender.com](http://localhost:3000) (default Vite port).
+The backend will run on [https://imsserver-f7sf.onrender.com](https://imsserver-f7sf.onrender.com) (default Vite port).
 
 ---
 

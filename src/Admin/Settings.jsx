@@ -71,7 +71,7 @@ function Settings() {
               </h1>
             </div>
           </div>
-          <div className="flex w-full sm:m-2 flex-wrap">
+          <div className="flex w-full sm:m-2">
             <div className="bg-base-300 sm:m-5 m-1 sm:w-full w-[50%] border-2 border-gray-400 shadow-2xl">
               <h1 className="text-center text-green-500 m-2 text-2xl">
                 {" "}

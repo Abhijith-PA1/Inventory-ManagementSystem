@@ -43,7 +43,7 @@ function PCard({ products }) {
             alt=""
             className="sm:mx-3 sm:m-2 sm:w-30 w-20 sm:h-20 h-15"
           />
-          <h3 className="sm:mx-3 sm:m-2">name : {products.productName}</h3>
+          <h3 className="sm:mx-3 sm:m-2 overflow-auto">name : {products.productName}</h3>
           <h6 className="sm:mx-3 sm:m-2">Diameter : {products.productDiameter}</h6>
           <button
             className="text-red-600 btn btn-outline hover:bg-red-400 sm:mx-3"

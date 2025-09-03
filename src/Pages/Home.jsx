@@ -275,7 +275,7 @@ function Home() {
           <h2 className="text-3xl font-bold text-center mb-8 text-yellow-600">
             our Location
           </h2>
-          <div className="sm:w-170 w-90 sm:h-100 h-60 mx-auto rounded overflow-hidden shadow-lg">
+          <div className="sm:w-170 w-full sm:h-100 h-60 mx-auto rounded overflow-hidden shadow-lg">
             <iframe
               title="Company Location"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.719210961265!2d72.86552881535218!3d19.07283078705386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ce3d9e0d9c15%3A0xd38a287b130a1a46!2sMumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1689980089652!5m2!1sen!2sus"

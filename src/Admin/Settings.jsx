@@ -61,7 +61,7 @@ function Settings() {
             <UpdateStorage />
           </div>
           <div className="flex justify-center">
-            <div className="bg-base-300 p-10 w-fit">
+            <div className="bg-base-300 p-10 sm:w-fit w-full">
               <h1 className="text-3xl text-center m-3 text-blue-600 font-bold">
                 Total Storage Space
               </h1>
@@ -71,7 +71,7 @@ function Settings() {
               </h1>
             </div>
           </div>
-          <div className="flex w-full sm:m-2">
+          <div className="flex w-full sm:m-2 flex-wrap">
             <div className="bg-base-300 sm:m-5 m-1 sm:w-full w-[50%] border-2 border-gray-400 shadow-2xl">
               <h1 className="text-center text-green-500 m-2 text-2xl">
                 {" "}

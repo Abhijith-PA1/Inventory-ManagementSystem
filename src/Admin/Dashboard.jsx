@@ -269,7 +269,7 @@ function Dashboard() {
                   Tons
                 </span>
               </h1>
-              <h1 className="md:text-2xl text-xl sm:m-5 m-3  sm:mt-15 mt-7">
+              <h1 className="md:text-2xl text-xl sm:m-5 m-3  sm:mt-15 mt-7 overflow-auto">
                 High Demanded Item :{" "}
                 <span className="text-green-600">
                   {Object.entries(
@@ -281,7 +281,7 @@ function Dashboard() {
                   ).sort((a, b) => b[1] - a[1])[0]?.[0] || "N/A"}
                 </span>
               </h1>
-              <h1 className="md:text-2xl text-xl sm:m-5 m-3 ">
+              <h1 className="md:text-2xl text-xl sm:m-5 m-3 overflow-auto ">
                 Low Demanded Item :{" "}
                 <span className="text-red-600">
                   {Object.entries(
